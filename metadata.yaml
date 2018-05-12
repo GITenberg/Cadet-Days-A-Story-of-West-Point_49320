@@ -1,4 +1,8 @@
 _repo: Cadet-Days-A-Story-of-West-Point_49320
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49320-h/images/cover.jpg
 creator:
   author:
     agent_name: King, Charles
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '6787'
     url: http://www.gutenberg.org/2009/agents/6787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49320#Cadet-Days-A-Story-of-West-Point
 gutenberg_issued: '2015-06-29'
 gutenberg_type: Text
 identifiers:
